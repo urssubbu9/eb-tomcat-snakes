@@ -188,3 +188,4 @@ Only files required to run the application are included in the WAR. Uncompiled j
 
 A Windows version of the build script ``build-windows.sh`` is also included. Note that the classpath arguments are separated by semicolons instead of colons.
 
+# eb-tomcat-snakes
